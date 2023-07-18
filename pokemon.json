@@ -16583,5 +16583,25 @@
             "Sp. Defense": 65,
             "Speed": 34
         }
+    },
+    {
+        "id": 810,
+        "name": {
+            "english": "Big Tom Bombs",
+            "japanese": "ビッグトムボム",
+            "chinese": "美录梅塔",
+            "french": ""
+        },
+        "type": [
+            "Power Thrower"
+        ],
+        "base": {
+            "HP": 36,
+            "Attack": 100,
+            "Defense": 100,
+            "Sp. Attack": 100,
+            "Sp. Defense": 100,
+            "Speed": 100
+        }
     }
 ]
